@@ -1,5 +1,5 @@
 {
-  "BanChats": flase,
+  "BanChats": true,
   "AutoRead": true,
   "AutoRecording": true,
   "AutoReply": true,
