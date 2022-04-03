@@ -13,7 +13,7 @@ module.exports.mess = {
 			only: {
 				group: '_Can only be used in groups!_',
 				admin: '_Can only be used by admin!_',
-				premium: '_Can only be used by premium users!_',
+				premium: '_Kamu bukan user premium, silahkan beli di owner 3k!_',
 				owner: '_Can only be used by owner!_',
 				Badmin: '_Can only be used if the bot is an admin!_',
 			}
